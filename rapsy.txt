@@ -1,0 +1,19 @@
+Najpierw zrobimy kwadrat, wiesz taki z samym brzegiem
+Czy efekt będzie spoko ja w sumie tego nie wiem ale
+jeden kwadrat wygląda raczej kiepsko
+więc weź się ziom nie pierdol i wstaw ich tutaj ze sto
+
+potem już prosto w for loopie to zamykasz,
+przy każdej iteracji ziom wrzucasz to na scenkę
+z resztą, co ja się tu będę wielce mądrzył
+wiesz przecież jeden z drugim, że tak działają pętle
+
+żeby nie było, że całość stoi w miejscu
+to nie jest kurwa korek w Poznaniu na przedmieściu
+pamiętaj tylko żeby całość wjebać jeszcze
+w to odświeżanie ramki pod spodem dając render ej
+
+to prawie koniec choć nadal wszystko stoi
+bo bez mutacji danych to możesz się pierdolić
+weź ze dwie ośki może x i y i obracaj tym do woli
+ja kończę tutaj misję
